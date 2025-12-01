@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+jupyter
+notebook
+nbconvert
+tqdm
+python-dateutil
+pytz
+tensorflow==2.14.1
