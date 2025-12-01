@@ -1,7 +1,8 @@
 # Forecasting Exchange‑Rate Volatility  
 Multivariate Staked LSTM + Attention model to forecast USD/INR realized volatility. This repo contains code, cleaned data, notebooks and scripts to reproduce the results reported in the project.
 
-**Repository:** https://github.com/Gaurav-1412/Forex-Volatility-Forecasting  
+**Repository:** https://github.com/Gaurav-1412/Forecasting-Exchange-Rate-Volatility
+  
 *(Replace above URL with your repo link if needed)*
 
 ---
