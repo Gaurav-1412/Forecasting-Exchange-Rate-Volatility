@@ -3,7 +3,7 @@ Multivariate Staked LSTM + Attention model to forecast USD/INR realized volatili
 
 **Repository:** https://github.com/Gaurav-1412/Forecasting-Exchange-Rate-Volatility
   
-*(Replace above URL with your repo link if needed)*
+
 
 ---
 
