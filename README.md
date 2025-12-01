@@ -9,8 +9,6 @@ Multivariate Staked LSTM + Attention model to forecast USD/INR realized volatili
 
 ## Quick summary
 - `maincode.ipynb` — end‑to‑end pipeline: data ingestion, preprocessing, feature engineering, model definitions, walk‑forward training and evaluation, figures/tables export.  
-- `Hedging.ipynb` — hedging simulation and economic evaluation (decision accuracy, P&L).  
-- `Ablation.ipynb` — ablation and sensitivity experiments.  
 - `final_predictors_2003_onwards.csv` — cleaned dataset used for experiments.  
 - `eda_output.xlsx` — exploratory data outputs.  
 - `results_Baseline.csv` — baseline model outputs (GARCH/HAR etc.).  
